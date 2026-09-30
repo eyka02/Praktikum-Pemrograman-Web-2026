@@ -12,8 +12,8 @@
 - Konfigurasi identitas Git global.
 
 ### Spesifikasi Perangkat
-Sistem Operasi:Windows 11 Pro
-Kapasitas RAM :16,0 GB (15,8 GB usable)
-Versi Node.js :v24.21.0
-Versi Git     :2.56.0.windows.1
-Versi npm     :v24.21.0
+- Sistem Operasi:Windows 11 Pro
+- Kapasitas RAM :16,0 GB (15,8 GB usable)
+- Versi Node.js :v24.21.0
+- Versi Git     :2.56.0.windows.1
+- Versi npm     :v24.21.0
